@@ -10,6 +10,7 @@ public class testGit {
         System.out.println("hot------fix");
         System.out.println("test----push");
         System.out.println("test----push--ssh");
+        System.out.println("test----poll");
 
     }
 }
