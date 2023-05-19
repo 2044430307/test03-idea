@@ -1,0 +1,94 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"1a0c13ef-57f2-49fd-b7eb-1bb312377fb1\" name=\"默认变更列表\" comment=\"master  first commit\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/compiler.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/encodings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/jarRepositories.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/pom.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/lxy/App.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/lxy/testGit.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/com/lxy/AppTest.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/lxy/App.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/test-classes/com/lxy/AppTest.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/test03-idea.iml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MavenImportPreferences\">\r\n    <option name=\"generalSettings\">\r\n      <MavenGeneralSettings>\r\n        <option name=\"localRepository\" value=\"D:\\Maven\\maven_local\" />\r\n        <option name=\"mavenHome\" value=\"$PROJECT_DIR$/../../../Maven/apache-maven-3.6.3\" />\r\n        <option name=\"userSettingsFile\" value=\"D:\\Maven\\apache-maven-3.6.3\\conf\\settings.xml\" />\r\n      </MavenGeneralSettings>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Q0hhaXBVjf5AsWFk2m7rIVNCJV\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"project.structure.last.edited\" value=\"项目\" />\r\n    <property name=\"project.structure.proportion\" value=\"0.0\" />\r\n    <property name=\"project.structure.side.proportion\" value=\"0.0\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"vcs.Git\" />\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration default=\"true\" type=\"ArquillianJUnit\" factoryName=\"\" nameIsGenerated=\"true\">\r\n      <option name=\"arquillianRunConfiguration\">\r\n        <value>\r\n          <option name=\"containerStateName\" value=\"\" />\r\n        </value>\r\n      </option>\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"AppTest.shouldAnswerWithTrue\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"test03-idea\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.lxy.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"com.lxy\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.lxy.AppTest\" />\r\n      <option name=\"METHOD_NAME\" value=\"shouldAnswerWithTrue\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"JUnit.AppTest.shouldAnswerWithTrue\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"应用程序级\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"默认任务\">\r\n      <changelist id=\"1a0c13ef-57f2-49fd-b7eb-1bb312377fb1\" name=\"默认变更列表\" comment=\"\" />\r\n      <created>1684496525795</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1684496525795</updated>\r\n      <workItem from=\"1684496527128\" duration=\"440000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"master  first commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"master  first commit\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 205d8daeda2c529d50844c07f66b6d8cb17ae90d)
++++ b/.idea/workspace.xml	(date 1684497245265)
+@@ -4,21 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="1a0c13ef-57f2-49fd-b7eb-1bb312377fb1" name="默认变更列表" comment="master  first commit">
+-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxy/App.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxy/testGit.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/java/com/lxy/AppTest.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/lxy/App.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/lxy/AppTest.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/test03-idea.iml" afterDir="false" />
+-    </list>
++    <list default="true" id="1a0c13ef-57f2-49fd-b7eb-1bb312377fb1" name="默认变更列表" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -61,17 +47,6 @@
+     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+   </component>
+   <component name="RunManager">
+-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+-      <option name="arquillianRunConfiguration">
+-        <value>
+-          <option name="containerStateName" value="" />
+-        </value>
+-      </option>
+-      <option name="TEST_OBJECT" value="class" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+     <configuration name="AppTest.shouldAnswerWithTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+       <module name="test03-idea" />
+       <extension name="coverage">
+@@ -102,8 +77,30 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1684496525795</updated>
+-      <workItem from="1684496527128" duration="440000" />
++      <workItem from="1684496527128" duration="651000" />
+     </task>
++    <task id="LOCAL-00001" summary="master  first commit">
++      <created>1684496985056</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1684496985056</updated>
++    </task>
++    <task id="LOCAL-00002" summary="master second commit">
++      <created>1684497071561</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1684497071561</updated>
++    </task>
++    <task id="LOCAL-00003" summary="master third commit">
++      <created>1684497112235</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1684497112235</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -122,6 +119,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="master  first commit" />
+-    <option name="LAST_COMMIT_MESSAGE" value="master  first commit" />
++    <MESSAGE value="master second commit" />
++    <MESSAGE value="master third commit" />
++    <option name="LAST_COMMIT_MESSAGE" value="master third commit" />
+   </component>
+ </project>
+\ No newline at end of file
