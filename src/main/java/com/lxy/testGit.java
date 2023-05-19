@@ -1,5 +1,6 @@
 package com.lxy;
 
+
 public class testGit {
     public static void main(String[] args) {
         System.out.println("12222222");
@@ -8,6 +9,7 @@ public class testGit {
         System.out.println("master---commit");
         System.out.println("hot------fix");
         System.out.println("test----push");
+        System.out.println("test----push--ssh");
 
     }
 }
