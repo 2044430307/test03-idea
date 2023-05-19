@@ -7,6 +7,7 @@ public class testGit {
         System.out.println("3333333333");
         System.out.println("master---commit");
         System.out.println("hot------fix");
+        System.out.println("test----push");
 
     }
 }
